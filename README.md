@@ -19,8 +19,8 @@ Stores can:
 
 
 *Users can:*
-•	Sign up (name, email and password)
-•	Query products:
+*	Sign up (name, email and password)
+*	Query products:
 1.	By category
 2.	By price range
 3.	The store is not relevant to the search, it doesn't matter the store that actually sells the products. (Nobody will search products by store)
