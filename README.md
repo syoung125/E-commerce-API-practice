@@ -1,7 +1,7 @@
 # E-commerce-API_practice
 [USJ Advanced Technology] final project
 
-## 
+## Task
 "Amazon" like e-commerce:
 There will be administrators (they don't sign up, they already exist in the system).
 Many stores will sell through this e-commerce as if they were a single store.
