@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+build
+node_modules
+*.properties
+.scannerwork
+.vscode
+personalre-postgres
+logs
+pm2-logs
