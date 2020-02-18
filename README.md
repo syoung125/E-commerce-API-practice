@@ -30,3 +30,7 @@ Stores can:
 *	Confirm the purchase.
 *	The purchase of a product will trigger the sending of an email (dummy send, you can simulate it by writing on the console). But that dummy send will be programmed in a class called EmailService in the email.service.ts file and that you should use during the purchase confirmation.
 
+
+## Object model design
+
+
