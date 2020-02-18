@@ -5,7 +5,8 @@
 "Amazon" like e-commerce:
 There will be administrators (they don't sign up, they already exist in the system).
 Many stores will sell through this e-commerce as if they were a single store.
-Administrators can:
+
+*Administrators can:*
 * Manage the categories the whole e-commerce. (Only 1 level of categorization) (Eg Electronics, Videogames, Home, Clothing, Sports, etc ...)
 * Consult all sales of a given day
 Stores can:
@@ -17,7 +18,7 @@ Stores can:
 
 
 
-Users can:
+*Users can:*
 •	Sign up (name, email and password)
 •	Query products:
 1.	By category
