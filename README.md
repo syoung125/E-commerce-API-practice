@@ -21,12 +21,12 @@ Stores can:
 *Users can:*
 *	Sign up (name, email and password)
 *	Query products:
-1.	By category
-2.	By price range
-3.	The store is not relevant to the search, it doesn't matter the store that actually sells the products. (Nobody will search products by store)
-•	Add reviews to a product
-•	Query product reviews
-•	Add products to the cart (there is only one cart per user and it is saved until confirmed or canceled)
-•	Confirm the purchase.
-•	The purchase of a product will trigger the sending of an email (dummy send, you can simulate it by writing on the console). But that dummy send will be programmed in a class called EmailService in the email.service.ts file and that you should use during the purchase confirmation.
+  1.	By category
+  2.	By price range
+  3.	The store is not relevant to the search, it doesn't matter the store that actually sells the products. (Nobody will search products by store)
+*	Add reviews to a product
+*	Query product reviews
+*	Add products to the cart (there is only one cart per user and it is saved until confirmed or canceled)
+*	Confirm the purchase.
+*	The purchase of a product will trigger the sending of an email (dummy send, you can simulate it by writing on the console). But that dummy send will be programmed in a class called EmailService in the email.service.ts file and that you should use during the purchase confirmation.
 
