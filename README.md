@@ -33,4 +33,4 @@ Stores can:
 
 ## Object model design
 
-
+![GitHub Logo](/modelDesign.jpg)
